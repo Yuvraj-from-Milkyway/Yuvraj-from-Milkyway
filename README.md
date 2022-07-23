@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuvraj from-Milkyway
 - 👀 I’m interested in learning new tech
-- 🌱 I’m currently learning DS
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 To reach me .. just mail .. yuvrajchoudhary107@gmail.com
 
